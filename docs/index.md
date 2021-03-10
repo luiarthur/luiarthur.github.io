@@ -20,9 +20,7 @@ I play jazz and classical piano music in my spare time.
         &raquo; {{ post.title }}
         {% if post.subtitle %}
         &mdash;
-        <a class="post-subtitle">
-            {{ post.subtitle }}
-        </a>
+        {{ post.subtitle }}
         {% endif %}
     </a>
     <p class="post-meta" style="font-size: 16px">
