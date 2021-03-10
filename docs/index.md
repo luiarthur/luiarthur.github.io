@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 I'm a PhD-level statistician interested in the application of Bayesian methods
 in scientific problems. I completed my PhD in Statistics at UC Santa Cruz under
@@ -12,6 +12,7 @@ Brigham Young University under Dr. David Dahl in 2015.
 I play jazz and classical piano music in my spare time.
 
 <hr>
+
 
 ### Posts
 {% for post in site.posts %}

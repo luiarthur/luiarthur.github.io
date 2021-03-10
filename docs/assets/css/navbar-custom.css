@@ -1,5 +1,6 @@
 .navbar-custom {
   padding: 0;
+  margin-bottom: calc(var(--main-font-size) * 1);
 }
 .navbar-custom .navbar-toggler { border: 0; }
 .navbar-custom .navbar-toggler:focus,

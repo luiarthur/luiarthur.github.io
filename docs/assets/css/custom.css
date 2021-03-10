@@ -1,18 +1,20 @@
 :root {
-  --main-font-family: 'Roboto', sans-serif;
-  --main-font-weight: 400;
-  --main-bold-font-weight: 500;
+  --main-font-family: 'Open Sans', sans-serif;
+  --main-font-weight: 300;
+  --main-bold-font-weight: 400;
   --main-font-size: 26px;
 }
 div#disqus_thread {
   margin-top: 100px;
 }
 /* font stuff */
-body, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
+body {
+  font-family: var(--main-font-family);
   color: black;
 }
 h1, h2, h3, h4, h5, h6 {
+  color: black;
+  font-family: var(--main-font-family);
   font-weight: var(--main-bold-font-weight);
   padding-bottom: calc(var(--main-font-size) * 0.4);
   padding-top: calc(var(--main-font-size) * 0.4);
