@@ -2,16 +2,18 @@
 layout: page
 ---
 
-# Home page
+# About Me
 
-Check out this <a href="{{site.baseurl}}/math-demo.html"> page with math</a>!
-It is way more interesting. 
+I'm a PhD-level statistician interested in the application of Bayesian methods
+in scientific problems. I completed my PhD in Statistics at UC Santa Cruz under
+Dr. Juhee Lee in 2021.  Prior to UCSC, I completed my BS/MS in Statistics at
+Brigham Young University under Dr. David Dahl in 2015.
 
-Also, this is how you [create github pages manually][1].
+I play jazz and classical piano music in my spare time.
 
 <hr>
 
-## Posts
+### Posts
 {% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
