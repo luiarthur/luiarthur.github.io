@@ -1,0 +1,27 @@
+# Site settings
+title: "Site Title"
+email: myemail@gmail.com
+description: "Put a description here"
+# github_repo: https://github.com/<username>/<name-of-repo>
+# google_analytics: <put google analytics seo tag here>
+
+plugins:
+  # search engine optimization
+  - jekyll-seo-tag
+  # create sitemap
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+# To include special collections:
+#   create a dir called _mycollections, and put things there
+# You can replace `mycollections` with anything
+# http://jekyllrb.com/docs/collections/
+# NOTE: Uncomment below 
+#
+# collections:
+#   mycollection:
+#     output: true
+#     permalink: /mycollection/:title/
