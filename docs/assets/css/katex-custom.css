@@ -16,7 +16,6 @@
   font-family: 'Katex_Main';
 }
 .katex .mord.boldsymbol {
-  /*font-family: 'Fira';*/
   font-family: var(--main-font-family);
   font-weight: var(--main-bold-font-weight);
   font-style: italic;

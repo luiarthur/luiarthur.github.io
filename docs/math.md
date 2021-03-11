@@ -19,5 +19,5 @@ X_i &\ind \text{Exponential}(\theta) \\
 \end{aligned}
 $$
 
-Also, note that I am using the `Fira` font, and not the default KaTeX (serif)
-math font.
+Also, note that I am using the `Open Sans` font, and not the default KaTeX
+(serif) math font.
