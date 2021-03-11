@@ -4,8 +4,8 @@ layout: page
 
 ## About Me
 
-I'm a PhD-level statistician interested in the application of Bayesian methods
-in scientific problems. I completed my PhD in Statistics at UC Santa Cruz under
+Hi! I'm a statistician interested in the application of Bayesian methods in
+scientific problems. I completed my PhD in Statistics at UC Santa Cruz under
 Dr. Juhee Lee in 2021.  Prior to UCSC, I completed my BS/MS in Statistics at
 Brigham Young University under Dr. David Dahl in 2015.
 
