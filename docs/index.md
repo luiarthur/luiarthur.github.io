@@ -2,7 +2,16 @@
 layout: page
 ---
 
-## About Me
+<img class="profile-pic" src="{{ '/assets/img/profile.png' | prepend: site.baseurl }}">
+<h3 class="profile-name">Arthur Lui</h3>
+
+<!--
+<ul class="no-bullets">
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+-->
 
 Hi! I'm a statistician interested in the application of Bayesian methods in
 scientific problems. I completed my PhD in Statistics at UC Santa Cruz under
